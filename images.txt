@@ -5,4 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 vulhub/apisix-dashboard:2.9.0
-vulhub/apisix-dashboard:2.9.0
+vulhub/apisix:2.9
