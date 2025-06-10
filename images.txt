@@ -6,3 +6,5 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 vulhub/apisix-dashboard:2.9.0
 vulhub/apisix:2.9
+vulhub/apisix:2.11.0
+bitnami/etcd:3.4.15
