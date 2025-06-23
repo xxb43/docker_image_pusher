@@ -9,3 +9,4 @@ vulhub/apisix:2.9
 vulhub/apisix:2.11.0
 bitnami/etcd:3.4.15
 vulhub/struts2:s2-066
+vulhub/struts2:2.5.25
